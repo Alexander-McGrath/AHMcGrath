@@ -2,7 +2,7 @@
   type: paper
   description: Reintroducing a keystone bioturbator can facilitate microbial bioremediation in urban polluted sediments
   date: 2023-5-1
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  image: https://www.sciencedirect.com/science/article/pii/S0269749123004219?via%3Dihub
   buttons:
     - type: manubot
       link: https://greenelab.github.io/meta-review/
@@ -13,9 +13,10 @@
       link: http://manubot.org/
   tags:
     - Bioturbators
-    - collaboration
+    - 16S Sequencing
+    - DADA2
 
-- id: 10.1016/j.envpol.2023.121419
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0269749123004219-ga1_lrg.jpg
+- id: https://doi.org/10.1201/9781003288602
+  
 
 
