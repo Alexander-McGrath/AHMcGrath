@@ -59,12 +59,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
 
 {%
   include button.html
   link="team"
-  text="Meet our team"
+  text="About"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -74,8 +74,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/Headshot.jpg"
   link="team"
-  title="Our Team"
+  title="About me"
   text=text
 %}
