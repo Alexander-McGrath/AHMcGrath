@@ -15,7 +15,7 @@ Leveraging ecological theory wtihin holobiont systems to determine cause-effect 
 
 {%
   include button.html
-  link="research"
+  link="Research"
   text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
