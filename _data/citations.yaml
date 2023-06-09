@@ -19,7 +19,7 @@
   type: paper
   description: Reintroducing a keystone bioturbator can facilitate microbial bioremediation
     in urban polluted sediments
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  image: https://www.sciencedirect.com/science/article/pii/S0269749123004219?via%3Dihub
   buttons:
   - type: manubot
     link: https://greenelab.github.io/meta-review/
@@ -30,7 +30,8 @@
     link: http://manubot.org/
   tags:
   - Bioturbators
-  - collaboration
+  - 16S Sequencing
+  - DADA2
 - id: ':'
   title: ' I get by with a little kelp from my friends; the role of host-associated
     microbes in host functioning'
@@ -39,19 +40,11 @@
   orcid: 0000-0001-9237-6539
   plugin: orcid.py
   file: orcid.yaml
-- id: 10.1016/j.envpol.2023.121419
-  title: Reintroducing a keystone bioturbator can facilitate microbial bioremediation
-    in urban polluted sediments
-  authors:
-  - A.B. Bugnot
-  - K.A. Dafforn
-  - K. Erickson
-  - A. McGrath
-  - W.A. O'Connor
-  - P.E. Gribben
-  publisher: Environmental Pollution
-  date: '2023-05-01'
-  link: https://doi.org/gsbwcq
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0269749123004219-ga1_lrg.jpg
+- id: https://doi.org/10.1201/9781003288602
+  title: 'Oceanography and Marine Biology: An annual review. Volume 60'
+  authors: []
+  publisher: CRC Press
+  date: '2022-12-08'
+  link: https://doi.org/10.1201/9781003288602
   plugin: sources.py
   file: sources.yaml
