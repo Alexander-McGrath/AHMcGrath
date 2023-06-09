@@ -11,7 +11,7 @@ Marine experimental ecologist with an interest in host-microbe systems.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Leveraging ecological theory wtihin holobiont systems to determine cause-effect relationships within a changing environment
 
 {%
   include button.html
@@ -26,7 +26,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/HB.jpg"
   link="research"
   title="Our Research"
   text=text
