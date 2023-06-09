@@ -14,20 +14,20 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="alexander.mcgrath@sydney.edu.au"
+  link="alexander.mcgrath@sydney.edu.au"
 %}
 {%
   include button.html
   type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  text="+61 0450241421"
+  link="+61 0450241421"
 %}
 {%
   include button.html
-  type="address"
+  type="F22 Life, Earth and Environmental Sciences (LEES) Building"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="https://www.google.com/maps/place/F22+Life,+Earth+and+Environmental+Sciences+(LEES)+Building/@-33.8887645,151.1904589,15z/data=!4m2!3m1!1s0x0:0x49c3efa3ba9cd14f?sa=X&ved=2ahUKEwjxh6nWmrX_AhV-m1YBHfVHDfwQ_BJ6BAhdEAg"
 %}
 
 {% include section.html %}
