@@ -1,13 +1,11 @@
 ---
-name: Jane Smith
+name: Alexander McGrath
 image: images/photo.jpg
-role: pi
-aliases:
-  - J. Smith
-  - J Smith
+
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  Linkedin: https://www.linkedin.com/in/alexander-mcgrath
+  Twitter: https://twitter.com/A_H_McGrath
+  ORCID: 0000-0001-9237-6539
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
