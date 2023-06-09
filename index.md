@@ -3,7 +3,7 @@
 
 # Alexander-McGrath's Website
 
-An engaging 1-3 sentence description of your lab.
+Marine experimental ecologist with an interest in host-microbe systems.
 
 {% include section.html %}
 
