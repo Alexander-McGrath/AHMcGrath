@@ -1,7 +1,7 @@
 ---
 ---
 
-# Alexander-McGrath's Website
+# Alexander McGrath
 
 Marine experimental ecologist with an interest in host-microbe systems.
 
