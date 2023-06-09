@@ -1,6 +1,6 @@
 ---
 name: Alexander McGrath
-image: images/photo.jpg
+image: images/Headshot.jpg
 
 links:
   Linkedin: https://www.linkedin.com/in/alexander-mcgrath
