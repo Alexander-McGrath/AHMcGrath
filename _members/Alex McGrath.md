@@ -1,7 +1,7 @@
 ---
 name: Alexander McGrath
 image: images/Headshot.jpg
-
+role: PhD Candidate
 links:
   Linkedin: https://www.linkedin.com/in/alexander-mcgrath
   Twitter: https://twitter.com/A_H_McGrath
