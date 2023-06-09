@@ -2,17 +2,15 @@
 title: Alexander-McGrath
 subtitle: 
 description: An engaging 1-3 sentence description of your lab.
-header: images/background.jpg
-footer: images/background.jpg
+header: images/HB.jpg
+footer: images/HB Cropped.jpg
 
 # site social media and other links
 links:
-  email: contact@Alexander-McGrath.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  email: alexander.mcgrath@sydney.edu.au
+  orcid: 0000-0001-9237-6539
   github: Alexander-McGrath
-  twitter: Alexander-McGrath
-  youtube: Alexander-McGrath
+  twitter: AHMcGrath
 
 ### jekyll settings
 
