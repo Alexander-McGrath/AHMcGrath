@@ -35,11 +35,11 @@
 - id: ':'
   title: ' I get by with a little kelp from my friends; the role of host-associated
     microbes in host functioning'
-  publisher: 75th Annual Meeting of the Phycological Society of America
   date: '2021-11-22'
   orcid: 0000-0001-9237-6539
   plugin: orcid.py
   file: orcid.yaml
+  publisher: 75th Annual Meeting of the Phycological Society of America
 - id: https://doi.org/10.1201/9781003288602
   title: 'Oceanography and Marine Biology: An annual review. Volume 60'
   authors: []
