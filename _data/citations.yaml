@@ -48,7 +48,9 @@
     in a habitat-forming marine holobiont
   image: https://www.sciencedirect.com/science/article/pii/S0269749123004219?via%3Dihub
   tags:
-  - Bioturbators
+  - Experimental design
+  - Causation
+  - Host-microbe interactions
   - 16S Sequencing
   - DADA2
   plugin: sources.py
