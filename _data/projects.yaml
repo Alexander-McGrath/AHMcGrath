@@ -1,47 +1,32 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: 1. Causation in host-microbe interactions
+  subtitle: 
   group: featured
-  image: images/photo.jpg
+  image: images/HB Cropped.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: An experimental framewrk for the manipulation of non-model host-microbe systems
   repo: greenelab/lab-website-template
   tags:
     - resource
     - publication
+    - experimental design
 
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
+- title: 2. Microbial effects on hosts across ontogeny and beyond physiology
+  subtitle: 
+  group: featured
+  image: images/HB.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: Moving beyond physiological measures of host function to determine the fitness effects of microbial disruption
   repo: greenelab/lab-website-template
   tags:
-    - software
+    - publication
 
-- title: Cool Web Server
-  subtitle: a subtitle
+- title: 3. Microbially mediated responses to environmental stress
+  subtitle: 
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: Determining the role of host-associated microbes in regulating host responses to extreme environmental stress
   repo: greenelab/lab-website-template
   tags:
-    - software
+    - publication
+
+
