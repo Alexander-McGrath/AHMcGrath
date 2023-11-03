@@ -2,7 +2,7 @@
   subtitle: 
   group: featured
   image: images/HB.jpg
-  link: https://github.com/
+  link: https://alexander-mcgrath.github.io/AHMcGrath/projects/Causation/
   description: An experimental framework for the manipulation of non-model host-microbe systems
   repo: greenelab/lab-website-template
   tags:
@@ -14,7 +14,7 @@
   subtitle: 
   group: featured
   image: images/HB4.jpg
-  link: https://github.com/
+  link: https://alexander-mcgrath.github.io/AHMcGrath/projects/Ontogeny/
   description: Moving beyond physiological measures of host function to determine the fitness effects of microbial disruption
   repo: greenelab/lab-website-template
   tags:
@@ -24,7 +24,7 @@
   subtitle: 
   group: featured
   image: images/HB2.jpg
-  link: https://github.com/
+  link: https://alexander-mcgrath.github.io/AHMcGrath/projects/Rainfall/
   description: Determining the role of host-associated microbes in regulating host responses to extreme environmental stress
   repo: greenelab/lab-website-template
   tags:
