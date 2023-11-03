@@ -76,49 +76,31 @@ orcid:
   icon: fa-brands fa-orcid
   text: ORCID
   tooltip: ORCID
-  link: https://orcid.org/$VALUE
+  link: https://orcid.org/0000-0001-9237-6539
 
 google-scholar:
   icon: fa-brands fa-google
   text: Google Scholar
   tooltip: Google Scholar
-  link: https://scholar.google.com/citations?user=$VALUE
+  link: https://scholar.google.com/citations?user=xKKPSocAAAAJ&hl=en&authuser=1
 
 github:
   icon: fa-brands fa-github
   text: GitHub
   tooltip: GitHub
-  link: https://github.com/$VALUE
+  link: https://github.com/Alexander-McGrath
 
 twitter:
   icon: fa-brands fa-twitter
   text: Twitter
   tooltip: Twitter
-  link: https://twitter.com/$VALUE
-
-facebook:
-  icon: fa-brands fa-facebook
-  text: Facebook
-  tooltip: Facebook
-  link: https://facebook.com/$VALUE
-
-instagram:
-  icon: fa-brands fa-instagram
-  text: Instagram
-  tooltip: Instagram
-  link: https://instagram.com/$VALUE
-
-youtube:
-  icon: fa-brands fa-youtube
-  text: YouTube
-  tooltip: YouTube
-  link: https://youtube.com/$VALUE
+  link: https://twitter.com/A_H_McGrath
 
 linkedin:
   icon: fa-brands fa-linkedin
   text: LinkedIn
   tooltip: LinkedIn
-  link: https://www.linkedin.com/in/$VALUE
+  link: https://www.linkedin.com/in/alexander-mcgrath/
 
 # alerts
 
