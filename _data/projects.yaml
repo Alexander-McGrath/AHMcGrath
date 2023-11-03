@@ -1,7 +1,7 @@
 - title: 1. Causation in host-microbe interactions
   subtitle: 
   group: featured
-  image: images/HB Cropped.jpg
+  image: images/HB.jpg
   link: https://github.com/
   description: An experimental framewrk for the manipulation of non-model host-microbe systems
   repo: greenelab/lab-website-template
@@ -13,7 +13,7 @@
 - title: 2. Microbial effects on hosts across ontogeny and beyond physiology
   subtitle: 
   group: featured
-  image: images/HB.jpg
+  image: images/HB4.jpg
   link: https://github.com/
   description: Moving beyond physiological measures of host function to determine the fitness effects of microbial disruption
   repo: greenelab/lab-website-template
@@ -23,7 +23,7 @@
 - title: 3. Microbially mediated responses to environmental stress
   subtitle: 
   group: featured
-  image: images/photo.jpg
+  image: images/HB2.jpg
   link: https://github.com/
   description: Determining the role of host-associated microbes in regulating host responses to extreme environmental stress
   repo: greenelab/lab-website-template
