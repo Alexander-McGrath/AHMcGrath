@@ -3,7 +3,7 @@
   group: featured
   image: images/HB.jpg
   link: https://github.com/
-  description: An experimental framewrk for the manipulation of non-model host-microbe systems
+  description: An experimental framework for the manipulation of non-model host-microbe systems
   repo: greenelab/lab-website-template
   tags:
     - resource
