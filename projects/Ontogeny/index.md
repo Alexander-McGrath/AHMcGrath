@@ -1,11 +1,11 @@
 ---
-title: Causation in host-microbe interactions
+title: Ontogeny
 description: This is a test.
 nav:
   order: 1
-  tooltip: Praise and laurels
-header: images/header-for-this-page.jpg
-footer: images/footer-for-this-page.jpg
+  tooltip: Moving beyong physiology to measures of host fitness
+header: images/HB4.jpg
+footer: images/HB.jpg
 header-dark: false
 footer-dark: false
 
