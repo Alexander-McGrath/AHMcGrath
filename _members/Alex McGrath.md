@@ -1,5 +1,5 @@
 ---
-name: Alexander McGrath
+name: Alexander McGrath (he/him)
 image: images/Headshot.jpg
 
 links:
@@ -8,10 +8,6 @@ links:
   ORCID: 0000-0001-9237-6539
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+Marine ecologist and microbiologist from the UK who is slightly obsessed with marine macrophytes. I have studied ecology in systems ranging from ticks to limpets and most recently habitat forming macroalgae. My work uses manipulative field and mesocosm experiments to explore the role of host-associated microbes in host function and fitness.
+
+Outside of the lab you can find me either in the pottery studio or with my head stuck in a rockpool looking for critters.
